@@ -91,6 +91,30 @@ var data = {
             "cities": [
                 "Changi"
             ]
+        },
+        {
+            "name": "Xavier Lepretre",
+            "bio": "Currently developer on Android at TradeHero",
+            "picture": "img/baggers/photo_xavier_lepretre.jpg",
+            "twitter": "",
+            "contact": "xavier.lepretre@gmail.com",
+            "mail": "xavier.lepretre@gmail.com",
+            "location": "River Valley",
+            "sessions": [
+                {
+                    "title": "Introduction to RxJava",
+                    "summary": "Functional Reactive Programming, and in particular its Java implementation, is well suited to applications that rely a lot on asynchronous calls and thread hopping. Discover the major coding elements of RxJava that will get you started."
+                }
+            ],
+            "tags": [
+                "RxJava",
+                "Android",
+                "Code",
+                "Reactive"
+            ],
+            "cities": [
+                "River Valley"
+            ]
         }
     ],
     "cities": [
@@ -103,6 +127,16 @@ var data = {
             "name": "Changi",
             "lat": 1.338167,
             "lng": 103.967915
+        },
+        {
+            "name": "River Valley",
+            "lat": 1.2907403,
+            "lng": 103.8252657
+        },
+        {
+            "name": "CBD",
+            "lat": 1.2838003,
+            "lng": "103.8494916,20"
         }
     ]
 };
