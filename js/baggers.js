@@ -115,6 +115,32 @@ var data = {
             "cities": [
                 "River Valley"
             ]
+        },
+        {
+            "name": "Mathieu François-Barseghian",
+            "bio": "Director of Product at Epigami",
+            "picture": "img/baggers/photo_mathieu_francois.jpg",
+            "twitter": "matieuxx",
+            "contact": "mat@matieux.net",
+            "mail": "mat@matieux.net",
+            "location": "Geylang",
+            "websites": [ {
+                "title": "Personal Blog",
+                "href": "http://blog.matieux.net"
+            } ],
+            "sessions": [ {
+                    "title": "The Victorian Internet",
+                    "summary": "We think that the XXIst century is exciting, full of technology innovations with great impact on our societies and lifestyle? I'm sorry, but the truth is that we are living in a rather a boring and risk-averse time... compared to our ancestors of the XIXth century.\n\n'In the XIXth century there were no televisions, aeroplanes, computers, or spacecraft; neither were there antibiotics, credit cards, microwave ovens, compact discs, or mobile phones.\n\nThere was, however, an Internet...'"
+            } ],
+            "tags": [
+                "Innovation",
+                "Lean Product Management",
+                "Software Architecture",
+                "Devops",
+            ],
+            "cities": [ 
+                "Geylang" 
+            ]
         }
     ],
     "cities": [
